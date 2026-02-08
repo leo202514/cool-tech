@@ -1,6 +1,3 @@
-I cannot directly provide a "downloadable" file link in the traditional sense, but I can provide the content in a **Markdown Code Block**. You can simply click the **"Copy"** button (top right of the code block) and save it as `README.md` in your project's root folder.
-
-```markdown
 # Cool Tech - Laravel CMS
 
 A dynamic technology news and blog platform built with Laravel. This project features a full authentication system with role-based access control (RBAC), allowing for separate Admin, Writer, and Guest experiences.
