@@ -1,6 +1,3 @@
-I cannot directly provide a "downloadable" file link in the traditional sense, but I can provide the content in a **Markdown Code Block**. You can simply click the **"Copy"** button (top right of the code block) and save it as `README.md` in your project's root folder.
-
-```markdown
 # Cool Tech - Laravel CMS
 
 A dynamic technology news and blog platform built with Laravel. This project features a full authentication system with role-based access control (RBAC), allowing for separate Admin, Writer, and Guest experiences.
@@ -30,7 +27,7 @@ A dynamic technology news and blog platform built with Laravel. This project fea
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/cool-tech.git](https://github.com/yourusername/cool-tech.git)
+   git clone [https://github.com/leo202514/cool-tech.git](https://github.com/leo202514/cool-tech.git)
    cd cool-tech
 
 ```
@@ -91,9 +88,4 @@ This project is open-source and available under the [MIT License](https://www.go
 
 ```
 
-### Pro Tip for GitHub
-When you upload this to GitHub, the `README.md` will automatically be rendered as a professional-looking landing page for your repository.
 
-**Would you like me to help you write a `.gitignore` file to make sure you don't accidentally upload your private `.env` passwords to GitHub?**
-
-```
