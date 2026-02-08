@@ -1,0 +1,33 @@
+# --- Laravel Defaults ---
+/vendor
+/node_modules
+/public/storage
+/public/build
+/public/hot
+/storage/*.key
+/storage/pail
+.phpunit.result.cache
+/.phpunit.cache
+
+# --- Environment & Secrets ---
+.env
+.env.backup
+.env.production
+auth.json
+
+# --- SQLite ---
+/database/*.sqlite
+/database/*.sqlite-journal
+
+# --- OS & IDE Specific ---
+.DS_Store
+Thumbs.db
+/.vscode
+/.idea
+/.fleet
+/.nova
+/.zed
+*.log
+.phpactor.json
+Homestead.json
+Homestead.yaml
