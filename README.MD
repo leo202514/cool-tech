@@ -27,7 +27,7 @@ A dynamic technology news and blog platform built with Laravel. This project fea
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/cool-tech.git](https://github.com/yourusername/cool-tech.git)
+   git clone [https://github.com/leo202514/cool-tech.git](https://github.com/leo202514/cool-tech.git)
    cd cool-tech
 
 ```
@@ -88,9 +88,4 @@ This project is open-source and available under the [MIT License](https://www.go
 
 ```
 
-### Pro Tip for GitHub
-When you upload this to GitHub, the `README.md` will automatically be rendered as a professional-looking landing page for your repository.
 
-**Would you like me to help you write a `.gitignore` file to make sure you don't accidentally upload your private `.env` passwords to GitHub?**
-
-```
